@@ -28,3 +28,7 @@ Below is the relational structure of the music store database:
 - `/dataset`: Contains all the raw CSV files used to build the database.
 - `/sql_queries`: Includes the heavily commented SQL script containing all 10 business queries.
 - `/images`: Visual assets including the schema diagram.
+
+## Disclaimer & Acknowledgements
+* **Database Setup:** The `1_Database_Setup.sql` and the raw CSV files are from a standard educational dataset. They were used strictly to mock the database environment and insert raw data.
+* **Original Work:** The business logic, query formulation, and data insights presented in the `2_Analysis_Queries.sql` file (and the Key Insights section above) are my independent, original work designed for this portfolio project.
