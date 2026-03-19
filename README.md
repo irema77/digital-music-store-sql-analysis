@@ -17,8 +17,6 @@ By analyzing sales data, customer preferences, and employee records, this projec
 Below is the relational structure of the music store database:
 <img width="761" height="614" alt="schema_diagram" src="https://github.com/user-attachments/assets/ffd19d7e-e855-4bba-be53-7ded52778868" />
 
-![schema_diagram.png](attachment:d4a76b67-948b-42d2-800b-2c0a0d6856df:schema_diagram.png)
-
 ## Key Business Insights Discovered
 
 1. **Cross-Selling Potential:** Identified the top 10 customers with the most diverse music tastes (purchasing the highest number of distinct genres). These customers are the ideal target audience for new genre/album launches.
